@@ -1,0 +1,67 @@
+[33mcommit dae68ff01bbce2f23364d6965251e063d7232b31[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: voitechen <bia.aran@hotmail.com>
+Date:   Tue Nov 26 09:30:20 2024 -0300
+
+    feat: configuração inicial do projeto
+
+.github/ISSUE_TEMPLATE/persist-data-with-room-issue-template.md
+.github/ISSUE_TEMPLATE/read-and-update-data-using-room-issue-template-.md
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+app/.gitignore
+app/build.gradle.kts
+app/proguard-rules.pro
+app/src/main/AndroidManifest.xml
+app/src/main/java/br/edu/up/rgm33185719/InventoryApp.kt
+app/src/main/java/br/edu/up/rgm33185719/InventoryApplication.kt
+app/src/main/java/br/edu/up/rgm33185719/MainActivity.kt
+app/src/main/java/br/edu/up/rgm33185719/data/AppContainer.kt
+app/src/main/java/br/edu/up/rgm33185719/data/Item.kt
+app/src/main/java/br/edu/up/rgm33185719/data/ItemsRepository.kt
+app/src/main/java/br/edu/up/rgm33185719/data/OfflineItemsRepository.kt
+app/src/main/java/br/edu/up/rgm33185719/ui/AppViewModelProvider.kt
+app/src/main/java/br/edu/up/rgm33185719/ui/home/HomeScreen.kt
+app/src/main/java/br/edu/up/rgm33185719/ui/home/HomeViewModel.kt
+app/src/main/java/br/edu/up/rgm33185719/ui/item/ItemDetailsScreen.kt
+app/src/main/java/br/edu/up/rgm33185719/ui/item/ItemDetailsViewModel.kt
+app/src/main/java/br/edu/up/rgm33185719/ui/item/ItemEditScreen.kt
+app/src/main/java/br/edu/up/rgm33185719/ui/item/ItemEditViewModel.kt
+app/src/main/java/br/edu/up/rgm33185719/ui/item/ItemEntryScreen.kt
+app/src/main/java/br/edu/up/rgm33185719/ui/item/ItemEntryViewModel.kt
+app/src/main/java/br/edu/up/rgm33185719/ui/navigation/InventoryNavGraph.kt
+app/src/main/java/br/edu/up/rgm33185719/ui/navigation/NavigationDestination.kt
+app/src/main/java/br/edu/up/rgm33185719/ui/theme/Color.kt
+app/src/main/java/br/edu/up/rgm33185719/ui/theme/Shape.kt
+app/src/main/java/br/edu/up/rgm33185719/ui/theme/Theme.kt
+app/src/main/res/drawable/ic_launcher_background.xml
+app/src/main/res/drawable/ic_launcher_foreground.xml
+app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+app/src/main/res/values/dimens.xml
+app/src/main/res/values/strings.xml
+app/src/main/res/values/themes.xml
+build.gradle.kts
+gradle.properties
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+gradlew
+gradlew.bat
+settings.gradle.kts
+
+[33mcommit cf7ebe4ec8bcc161bfec557e1152215472cd5680[m
+Author: biavoitechen <bianvoitechen@gmail.com>
+Date:   Sun Nov 24 19:19:57 2024 -0300
+
+    Update README.md
+
+README.md
+
+[33mcommit eb8851b59c424db7254cc2c6c2e7293da0b5e869[m
+Author: biavoitechen <bianvoitechen@gmail.com>
+Date:   Sun Nov 24 19:19:01 2024 -0300
+
+    Initial commit
+
+README.md
